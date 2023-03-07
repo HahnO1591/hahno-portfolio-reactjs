@@ -58,7 +58,7 @@ const Header = () => {
                          className={
                             activeNav === "#experience" ? "nav__link active-link" : "nav__link"
                             }>
-                            <i className='uil uil-briefcase-alt nav__icon'></i> Training & Experience
+                            <i className='uil uil-briefcase-alt nav__icon'></i> Qualifications
                         </a>
                     </li>
 
