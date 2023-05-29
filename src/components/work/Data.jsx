@@ -12,6 +12,7 @@ import Work11 from "../../assets/work11.jpg";
 import Work12 from "../../assets/work12.jpg";
 import Work13 from "../../assets/work13.jpg";
 import Work14 from "../../assets/work14.jpg";
+import Work15 from "../../assets/work15.jpg";
 
 export const projectsData = [
     {
@@ -111,6 +112,13 @@ export const projectsData = [
       title: "Logo using Adobe Photoshop",
       category: "graphic design",
       link: "https://www.behance.net/gallery/151770207/Company-Logo"
+    },
+    {
+      id: 15,
+      image: Work15,
+      title: "Dog Salon Website using HTML & CSS",
+      category: "web",
+      link: "https://hahno1591.github.io/dog-grooming/"
     },
   ];
 
